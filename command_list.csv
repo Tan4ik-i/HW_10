@@ -1,0 +1,621 @@
+    1  sudo apt-get install twek
+    2  sudo apt-get update
+    3  sudo apt-get upgrade
+    4  sudo apt-get update
+    5  sudo apt-get upgrade
+    6  sudo apt-get autoremove
+    7  sudo apt-get autoclean
+    8  sudo apt-get purge
+    9  sudo apt-get update
+   10  sudo apt-get upgrade
+   11  lsblk 
+   12  blkid 
+   13  blkid /dev/sda1
+   14  blkid --help
+   15  blkid 
+   16  blkid -l
+   17  blkid -i
+   18  blkid -i /dev/sda1
+   19  sudo blkid -i /dev/sda1
+   20  sudo blkid -l /dev/sda1
+   21  sudo blkid -l /dev/sda
+   22  sudo blkid -k /dev/sda1
+   23  sudo apt-get install tweak 
+   24  sudo blkid /dev/sda1
+   25  sudo blkid /dev/sdb1
+   26  lsblk
+   27  sudo parted /dev/sda1
+   28  sudo parted /dev/sda1 -l
+   29  sudo parted /dev/sda -l
+   30  mkdir ~/Storage
+   31  mkdir ~/Сховище
+   32  ls ~
+   33  sudo mkdir /etc/backup
+   34  sudo cp /etc/fstab /etc/backup/fstab
+   35  sudo apt-get install vim
+   36  sudo vim /etc/fstab 
+   37  sudo reboot
+   38  ls
+   39  cd Dow
+   40  cd Завантаження/
+   41  ls
+   42  vim bash_histroy 
+   43  sudo apt-get install gnome-tweak
+   44  sudo apt-get install gnome-tweaks
+   45  sudo apt-get install gnome-tweak-tool 
+   46  sudo apt-get install chrome-gnome-shell
+   47  sudo -s
+   48  cat /etc/lsb-release 
+   49  uname -a
+   50  cd Завантаження/
+   51  ls
+   52  cd cnijfilter-mp280series-3.40-1-deb/
+   53  ls
+   54  ./install.sh 
+   55  sudo apt-get update
+   56  sudo apt-get upgrade
+   57  sudo apt-cache search pixma
+   58  sudo apt-get update
+   59  sudo apt-get upgrade
+   60  sudo apt-get update
+   61  sudo apt-get upgrade
+   62  sudo add-apt-repository ppa:gezakovacs/ppa
+   63  sudo apt-get update
+   64  sudo apt-get upgrade
+   65  sudo apt install unetbootin
+   66  tree
+   67  sudo add-apt-repository ppa:tomtomtom/woeusb
+   68  sudo apt update && sudo apt install woeusb-frontend-wxgtk
+   69  sudo apt-get install
+   70  sudo apt-get updAATE
+   71  sudo apt-get update
+   72  sudo apt-get upgrade
+   73  sudo apt update && sudo apt install woeusb-frontend-wxgtk
+   74  sudo apt-get install woeusb
+   75  sudo apt-get install libgcc-s1
+   76  sudo apt-get install ventoy
+   77  cat /etc/lsb-release 
+   78  sudo apt-get install msttcorefonts
+   79  sudo apt-get install ttf-mscorefonts-installer
+   80  hardinfo
+   81  sudo apt install hardinfosudo apt install hardinfo
+   82  hardinfo
+   83  sudo apt install hardinfo
+   84  /install suto t launcher
+   85  install suto org
+   86  Org
+   87  snapnme
+   88  injstall jdk
+   89  sudo apt install org
+   90  t launcher
+   91  suto apt install t launcher
+   92  sudo apt install t launcher
+   93  sudo apt install tlauncher
+   94  sudo apt install jdk-24
+   95  12081984
+   96  sudo app install jdk-24
+   97  12081984
+   98  ls
+   99  unzip TLauncher-2.885.zip
+  100  open
+  101  sudo app update
+  102  12081984
+  103  sudo apt install openjdk-11-jre openjfx
+  104  ls
+  105  sudo chmod +x TLancher-2.885.jar
+  106  java-jar TLauncher.jar
+  107  open TLauncher
+  108  open TLaunsher.jar
+  109  cd.TLauncher/
+  110  cd/ 
+  111  cd.TLauncher
+  112  ls
+  113  sudo apt update
+  114  sudo apt install openjdk-11-jre opengfx
+  115  sudo chmod +x TLauncher
+  116  sudo apt update
+  117  sudo apt install gdebi
+  118  sudo apt update
+  119  sudo apt install lshw
+  120  mkdir~/aida64
+  121  mkdir~/aida64extreme
+  122  gyuiryihiljlhlkfhkkhkhjkk
+  123  9ik0olloiklik8
+  124  flatpak run org.vinegarhq.Sober
+  125  flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+  126  flatpak install flathub org.vinegarhq.Sober
+  127  sudo apt install flatpak install flathub org.vinegarhq.Sober
+  128  sudo apt install flatpak Sober
+  129  sudo apt install flatpak install flathub org.vinegarhq.Sober
+  130  flatpak run org.vinegarhq.Sober
+  131  apt install flatpak run org.vinegarhq.Sober
+  132  sudo apt install flatpak
+  133  sudo apt install flatpak run org.vinegarhq.Sober
+  134  sudo apt install flatpak install flathub org.vinegarhq.Sober
+  135  sudo apt install flatpak install flathub
+  136  sudo apt install flathub
+  137  sudo apt install 
+  138  sudo apt install flatpak install flathub org.vinegarhq.Sober
+  139  sudo apt install org.vinegarhq.Sober
+  140  sudo apt install flatpak
+  141  sudo apt install flathub
+  142  flatpak install flathub org.vinegarhq.Vinegar
+  143  flatpak run org.vinegarhq.Vinegar
+  144  flatpak install flathub org.vinegarhq.Vinegar
+  145  sudo apt install flatpak install flathub org.vinegarhq.Vinegar
+  146  sudo dpkg --add-architecture i386
+  147  sudo mkdir -pm755 /etc/apt/keyrings
+  148  wget -O - https://dl.winehq.org/wine-builds/winehq.key | sudo gpg --dearmor -o /etc/apt/keyrings/winehq-archive.key -
+  149  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/trixie/winehq-trixie.sources
+  150  sudo apt update
+  151  sudo apt install --install-recommends winehq-stable
+  152  wine conf
+  153  wine winecfg
+  154  wine conf
+  155  sudo apt install wine-development
+  156  wine conf
+  157  wine winecfg
+  158  ~/Downloads/Maliks-Linux-Roblox-Wrapper-v8.0$'/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11/Maliks_Roblox_Wrapper.sh' 
+  159  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11/Maliks_Roblox_Wrapper.sh' 
+  160  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11/Maliks_Roblox_Wrapper.sh' 
+  161  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11/Maliks_Roblox_Wrapper.sh' 
+  162  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v8.0/Maliks_Roblox_Wrapper.sh' 
+  163  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v8.0' 
+  164  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v8.0/Maliks_Roblox_Wrapper.sh' 
+  165  open roblox
+  166  sudo install vulkan 1.2
+  167  sudo install apt vulkan 1.2
+  168  sudo install apt vulkan
+  169  install vulkan
+  170  install vulkan 1.2
+  171  sudo apt upgrade
+  172  sudo apt-get update
+  173  sudo do-realese-update
+  174  sudo do realese update
+  175  sudo realese update
+  176  sudo apt install'/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' 
+  177  install'/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' 
+  178  sudo install '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' 
+  179  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11/Maliks_Roblox_Wrapper.sh' 
+  180  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11/README.md' 
+  181  sudo apt install '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11/Maliks_Roblox_Wrapper.sh' 
+  182  sudo install flatpak'/home/qwsaz/Завантаження/org.vinegarhq.Sober(6).flatpakref' 
+  183  '/home/qwsaz/Завантаження/RobloxPlayerInstaller(2).exe' 
+  184  install apt sudo '/home/qwsaz/Завантаження/RobloxPlayerInstaller(1).exe' 
+  185  open '/home/qwsaz/Завантаження/RobloxPlayerInstaller(2).exe' 
+  186  sudo apt install '/home/qwsaz/Завантаження/Easyfun_ru_50000_ld(2).exe' 
+  187  sudo install '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' 
+  188  help
+  189  '/home/qwsaz/Завантаження/RobloxPlayerInstaller.exe' /open
+  190  flatpak install --user https://sober.vinegarhq.org/sober.flatpakref
+  191  '/home/qwsaz/Завантаження/RobloxPlayerInstaller(3).exe' open pls
+  192  vpfbfof pf;cd;fgop;dfg./l;gogm][s'lkglb pin kod bkluchi roblox padla
+  193  '/home/qwsaz/Завантаження/javax' '/home/qwsaz/Завантаження/javax' '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v8.0' '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v8.0' '/home/qwsaz/Завантаження/RobloxPlayerInstaller(3).exe' '/home/qwsaz/Завантаження/WebCatalog-67.3.0-universal.dmg' 
+  194  flatpak install flathub org.vinegarhq.Sober'/home/qwsaz/Завантаження/org.vinegarhq.Sober(7).flatpakref' 
+  195  sudo apt install '/home/qwsaz/Завантаження/RobloxPlayerInstaller(3)' 
+  196  sudo apt install RobloxPlayerInstaller
+  197  fastfech
+  198  fastfetch
+  199  fastafetch
+  200  sudo apt install gnome-software-plugin-flatpak
+  201  flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+  202  flatpak install flathub org.vinegarhq.Sober
+  203  flatpak run org.vinegarhq.Sober
+  204  flatpak install flathub org.vinegarhq.Sober
+  205  sudo apt install '/home/qwsaz/Завантаження/org.vinegarhq.Sober(8).flatpakref' 
+  206  flatpak install flathub org.vinegarhq.Sober
+  207  yt4
+  208  flatpak run org.vinegarhq.Sober
+  209  flatpak install flathub org.vinegarhq.Vinegar
+  210  flatpak run org.vinegarhq.Vinegar
+  211  flatpak install flathub org.vinegarhq.Sober
+  212  flatpak run org.vinegarhq.Sober
+  213  sudo apt install flatpak
+  214  sudo apt install gnome-software-plugin-flatpak
+  215  'sudo apt install gnome-software-plugin-flatpak
+  216  flatpak install flathub org.vinegarhq.Sober
+  217  sudo flatpak repair
+  218  flatpak install flathub org.vinegarhq.Sober
+  219  recent:///88e998c0e18dfc9611a963b768c87045
+  220  sudo apt install recent:///88e998c0e18dfc9611a963b768c87045
+  221  download /home/qwsaz/мгдлфт/vulkansdk-linux-x86_64-1.4.304.0.tar(1)
+  222  download /home/qwsaz/мгдлфт/vulkansdk-linux-x86_64-1.4.304.0.tar
+  223  sudo apt install /home/qwsaz/мгдлфт/vulkansdk-linux-x86_64-1.4.304.0.tar
+  224  nano readme_tutorial
+  225  sudo apt install /home/qwsaz/мгдлфт/vulkansdk-linux-x86_64-1.4.304.0.tar(1)
+  226  install sudo apt '/home/qwsaz/Завантаження/RobloxPlayerInstaller(4)' 
+  227  install'/home/qwsaz/Завантаження/RobloxPlayerInstaller(4)' 
+  228  install sudo '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' 
+  229  install flatpak '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' 
+  230  install sudo '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' 
+  231  neofetch
+  232  curl ascii.live/maxwell
+  233  neofetch
+  234  sudo apt install neofetch
+  235  neofetch
+  236  -d kali-windows
+  237  kali windows
+  238  sudo apt install kali
+  239  kali-windows
+  240  kali
+  241  -d kali
+  242  sudo apt install '/home/qwsaz/Завантаження/wine-10.0' 
+  243  sudo pat install '/home/qwsaz/Завантаження/Seelen-UI-master(2)' 
+  244  suda apt install '/home/qwsaz/Завантаження/Seelen-UI-master(2)' 
+  245  deb sudo apt install'/home/qwsaz/Завантаження/Seelen-UI-master(2)' 
+  246  ascii.live/bnr
+  247  funtouch
+  248  neofetch
+  249  sudo
+  250  sudo apt-get install git
+  251  git --version
+  252  clear
+  253  git config --global user.name "Tetiana"
+  254  git config --global user.email "tan4ikwork@gmail.com"
+  255  git clone https://github.com/Tan4ik-i/HM_10.git
+  256  cd HW_10
+  257  clear
+  258  git config --global user.name "Tan4ik-i"
+  259  gitgit configit configit config
+  260  clear
+  261  git config --global user.name "Tan4ik-i"
+  262  git config --global user.email "tan4ikwork@gmail.com"
+  263  git clone https://github.com/Tan4ik-i/HW_10.git
+  264  cd HW_10
+  265  cd..
+  266  touch text_ignore.txt
+  267  cd..
+  268  nano.git_ignore
+  269  nano.git ignore
+  270  nano
+  271  git status
+  272  git add
+  273  git add .
+  274  git commit -m "Add text_ignore.txt to gitignore"
+  275  git config --global user.name "Tan4ik_i"
+  276  git config --global user.email "tan4ikwork@gmail.com"
+  277  git clone https://github.com/Tan4ik-i/HW_10.git
+  278  add..
+  279  history
+  280  -d277
+  281  -d 277
+  282  git config --global user.name "Tan4ik-i"
+  283  git config --global user.email "tan4ikwork@gmail.com"
+  284  git clone https://github.com/Tan4ik-i/HM_10.git
+  285  clear
+  286  git config --global user.name "Tan4ik-i"
+  287  git config --global user.email "tan4ikwork@gmail.com"
+  288  git clone https://github.com/Tan4ik-i/HM_10.git
+  289  cd HW_10
+  290  touch text_ignore.txt
+  291  nano.git ignore
+  292  nano
+  293  git status
+  294  git add .
+  295  git commit -m "Add text_ignore.txt to .gitignore"
+  296  git rm --cached text_ignore.txt
+  297  cd HW_10
+  298  git rm --cached text_ignore.txt
+  299  1s
+  300  ls
+  301  echo "text_ignore.txt" >> .gitignore
+  302  cat .gitignore
+  303  cd ~/HW_10
+  304  git rm --cached text_ignore.txt
+  305  ls
+  306  cd HM_10
+  307  ls
+  308  git rm --cached text_ignore.txt
+  309  echo "text_ignore.txt" >> .gitignore
+  310  history -a && history -r
+  311  sudo apt-get install twek
+  312  sudo apt-get update
+  313  sudo apt-get upgrade
+  314  sudo apt-get update
+  315  sudo apt-get upgrade
+  316  sudo apt-get autoremove
+  317  sudo apt-get autoclean
+  318  sudo apt-get purge
+  319  sudo apt-get update
+  320  sudo apt-get upgrade
+  321  lsblk 
+  322  blkid 
+  323  blkid /dev/sda1
+  324  blkid --help
+  325  blkid 
+  326  blkid -l
+  327  blkid -i
+  328  blkid -i /dev/sda1
+  329  sudo blkid -i /dev/sda1
+  330  sudo blkid -l /dev/sda1
+  331  sudo blkid -l /dev/sda
+  332  sudo blkid -k /dev/sda1
+  333  sudo apt-get install tweak 
+  334  sudo blkid /dev/sda1
+  335  sudo blkid /dev/sdb1
+  336  lsblk
+  337  sudo parted /dev/sda1
+  338  sudo parted /dev/sda1 -l
+  339  sudo parted /dev/sda -l
+  340  mkdir ~/Storage
+  341  mkdir ~/Сховище
+  342  ls ~
+  343  sudo mkdir /etc/backup
+  344  sudo cp /etc/fstab /etc/backup/fstab
+  345  sudo apt-get install vim
+  346  sudo vim /etc/fstab 
+  347  sudo reboot
+  348  ls
+  349  cd Dow
+  350  cd Завантаження/
+  351  ls
+  352  vim bash_histroy 
+  353  sudo apt-get install gnome-tweak
+  354  sudo apt-get install gnome-tweaks
+  355  sudo apt-get install gnome-tweak-tool 
+  356  sudo apt-get install chrome-gnome-shell
+  357  sudo -s
+  358  cat /etc/lsb-release 
+  359  uname -a
+  360  cd Завантаження/
+  361  ls
+  362  cd cnijfilter-mp280series-3.40-1-deb/
+  363  ls
+  364  ./install.sh 
+  365  sudo apt-get update
+  366  sudo apt-get upgrade
+  367  sudo apt-cache search pixma
+  368  sudo apt-get update
+  369  sudo apt-get upgrade
+  370  sudo apt-get update
+  371  sudo apt-get upgrade
+  372  sudo add-apt-repository ppa:gezakovacs/ppa
+  373  sudo apt-get update
+  374  sudo apt-get upgrade
+  375  sudo apt install unetbootin
+  376  tree
+  377  sudo add-apt-repository ppa:tomtomtom/woeusb
+  378  sudo apt update && sudo apt install woeusb-frontend-wxgtk
+  379  sudo apt-get install
+  380  sudo apt-get updAATE
+  381  sudo apt-get update
+  382  sudo apt-get upgrade
+  383  sudo apt update && sudo apt install woeusb-frontend-wxgtk
+  384  sudo apt-get install woeusb
+  385  sudo apt-get install libgcc-s1
+  386  sudo apt-get install ventoy
+  387  cat /etc/lsb-release 
+  388  sudo apt-get install msttcorefonts
+  389  sudo apt-get install ttf-mscorefonts-installer
+  390  hardinfo
+  391  sudo apt install hardinfosudo apt install hardinfo
+  392  hardinfo
+  393  sudo apt install hardinfo
+  394  /install suto t launcher
+  395  install suto org
+  396  Org
+  397  snapnme
+  398  injstall jdk
+  399  sudo apt install org
+  400  t launcher
+  401  suto apt install t launcher
+  402  sudo apt install t launcher
+  403  sudo apt install tlauncher
+  404  sudo apt install jdk-24
+  405  12081984
+  406  sudo app install jdk-24
+  407  12081984
+  408  ls
+  409  unzip TLauncher-2.885.zip
+  410  open
+  411  sudo app update
+  412  12081984
+  413  sudo apt install openjdk-11-jre openjfx
+  414  ls
+  415  sudo chmod +x TLancher-2.885.jar
+  416  java-jar TLauncher.jar
+  417  open TLauncher
+  418  open TLaunsher.jar
+  419  cd.TLauncher/
+  420  cd/ 
+  421  cd.TLauncher
+  422  ls
+  423  sudo apt update
+  424  sudo apt install openjdk-11-jre opengfx
+  425  sudo chmod +x TLauncher
+  426  sudo apt update
+  427  sudo apt install gdebi
+  428  sudo apt update
+  429  sudo apt install lshw
+  430  mkdir~/aida64
+  431  mkdir~/aida64extreme
+  432  gyuiryihiljlhlkfhkkhkhjkk
+  433  9ik0olloiklik8
+  434  flatpak run org.vinegarhq.Sober
+  435  flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+  436  flatpak install flathub org.vinegarhq.Sober
+  437  sudo apt install flatpak install flathub org.vinegarhq.Sober
+  438  sudo apt install flatpak Sober
+  439  sudo apt install flatpak install flathub org.vinegarhq.Sober
+  440  flatpak run org.vinegarhq.Sober
+  441  apt install flatpak run org.vinegarhq.Sober
+  442  sudo apt install flatpak
+  443  sudo apt install flatpak run org.vinegarhq.Sober
+  444  sudo apt install flatpak install flathub org.vinegarhq.Sober
+  445  sudo apt install flatpak install flathub
+  446  sudo apt install flathub
+  447  sudo apt install 
+  448  sudo apt install flatpak install flathub org.vinegarhq.Sober
+  449  sudo apt install org.vinegarhq.Sober
+  450  sudo apt install flatpak
+  451  sudo apt install flathub
+  452  flatpak install flathub org.vinegarhq.Vinegar
+  453  flatpak run org.vinegarhq.Vinegar
+  454  flatpak install flathub org.vinegarhq.Vinegar
+  455  sudo apt install flatpak install flathub org.vinegarhq.Vinegar
+  456  sudo dpkg --add-architecture i386
+  457  sudo mkdir -pm755 /etc/apt/keyrings
+  458  wget -O - https://dl.winehq.org/wine-builds/winehq.key | sudo gpg --dearmor -o /etc/apt/keyrings/winehq-archive.key -
+  459  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/trixie/winehq-trixie.sources
+  460  sudo apt update
+  461  sudo apt install --install-recommends winehq-stable
+  462  wine conf
+  463  wine winecfg
+  464  wine conf
+  465  sudo apt install wine-development
+  466  wine conf
+  467  wine winecfg
+  468  ~/Downloads/Maliks-Linux-Roblox-Wrapper-v8.0$'/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11/Maliks_Roblox_Wrapper.sh' 
+  469  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11/Maliks_Roblox_Wrapper.sh' 
+  470  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11/Maliks_Roblox_Wrapper.sh' 
+  471  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11/Maliks_Roblox_Wrapper.sh' 
+  472  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v8.0/Maliks_Roblox_Wrapper.sh' 
+  473  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v8.0' 
+  474  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v8.0/Maliks_Roblox_Wrapper.sh' 
+  475  open roblox
+  476  sudo install vulkan 1.2
+  477  sudo install apt vulkan 1.2
+  478  sudo install apt vulkan
+  479  install vulkan
+  480  install vulkan 1.2
+  481  sudo apt upgrade
+  482  sudo apt-get update
+  483  sudo do-realese-update
+  484  sudo do realese update
+  485  sudo realese update
+  486  sudo apt install'/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' 
+  487  install'/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' 
+  488  sudo install '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' 
+  489  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11/Maliks_Roblox_Wrapper.sh' 
+  490  '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11/README.md' 
+  491  sudo apt install '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11/Maliks_Roblox_Wrapper.sh' 
+  492  sudo install flatpak'/home/qwsaz/Завантаження/org.vinegarhq.Sober(6).flatpakref' 
+  493  '/home/qwsaz/Завантаження/RobloxPlayerInstaller(2).exe' 
+  494  install apt sudo '/home/qwsaz/Завантаження/RobloxPlayerInstaller(1).exe' 
+  495  open '/home/qwsaz/Завантаження/RobloxPlayerInstaller(2).exe' 
+  496  sudo apt install '/home/qwsaz/Завантаження/Easyfun_ru_50000_ld(2).exe' 
+  497  sudo install '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' 
+  498  help
+  499  '/home/qwsaz/Завантаження/RobloxPlayerInstaller.exe' /open
+  500  flatpak install --user https://sober.vinegarhq.org/sober.flatpakref
+  501  '/home/qwsaz/Завантаження/RobloxPlayerInstaller(3).exe' open pls
+  502  vpfbfof pf;cd;fgop;dfg./l;gogm][s'lkglb pin kod bkluchi roblox padla
+  503  '/home/qwsaz/Завантаження/javax' '/home/qwsaz/Завантаження/javax' '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v8.0' '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v8.0' '/home/qwsaz/Завантаження/RobloxPlayerInstaller(3).exe' '/home/qwsaz/Завантаження/WebCatalog-67.3.0-universal.dmg' 
+  504  flatpak install flathub org.vinegarhq.Sober'/home/qwsaz/Завантаження/org.vinegarhq.Sober(7).flatpakref' 
+  505  sudo apt install '/home/qwsaz/Завантаження/RobloxPlayerInstaller(3)' 
+  506  sudo apt install RobloxPlayerInstaller
+  507  fastfech
+  508  fastfetch
+  509  fastafetch
+  510  sudo apt install gnome-software-plugin-flatpak
+  511  flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+  512  flatpak install flathub org.vinegarhq.Sober
+  513  flatpak run org.vinegarhq.Sober
+  514  flatpak install flathub org.vinegarhq.Sober
+  515  sudo apt install '/home/qwsaz/Завантаження/org.vinegarhq.Sober(8).flatpakref' 
+  516  flatpak install flathub org.vinegarhq.Sober
+  517  yt4
+  518  flatpak run org.vinegarhq.Sober
+  519  flatpak install flathub org.vinegarhq.Vinegar
+  520  flatpak run org.vinegarhq.Vinegar
+  521  flatpak install flathub org.vinegarhq.Sober
+  522  flatpak run org.vinegarhq.Sober
+  523  sudo apt install flatpak
+  524  sudo apt install gnome-software-plugin-flatpak
+  525  'sudo apt install gnome-software-plugin-flatpak
+  526  flatpak install flathub org.vinegarhq.Sober
+  527  sudo flatpak repair
+  528  flatpak install flathub org.vinegarhq.Sober
+  529  recent:///88e998c0e18dfc9611a963b768c87045
+  530  sudo apt install recent:///88e998c0e18dfc9611a963b768c87045
+  531  download /home/qwsaz/мгдлфт/vulkansdk-linux-x86_64-1.4.304.0.tar(1)
+  532  download /home/qwsaz/мгдлфт/vulkansdk-linux-x86_64-1.4.304.0.tar
+  533  sudo apt install /home/qwsaz/мгдлфт/vulkansdk-linux-x86_64-1.4.304.0.tar
+  534  nano readme_tutorial
+  535  sudo apt install /home/qwsaz/мгдлфт/vulkansdk-linux-x86_64-1.4.304.0.tar(1)
+  536  install sudo apt '/home/qwsaz/Завантаження/RobloxPlayerInstaller(4)' 
+  537  install'/home/qwsaz/Завантаження/RobloxPlayerInstaller(4)' 
+  538  install sudo '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' 
+  539  install flatpak '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' 
+  540  install sudo '/home/qwsaz/Завантаження/Maliks-Linux-Roblox-Wrapper-v11' 
+  541  neofetch
+  542  curl ascii.live/maxwell
+  543  neofetch
+  544  sudo apt install neofetch
+  545  neofetch
+  546  -d kali-windows
+  547  kali windows
+  548  sudo apt install kali
+  549  kali-windows
+  550  kali
+  551  -d kali
+  552  sudo apt install '/home/qwsaz/Завантаження/wine-10.0' 
+  553  sudo pat install '/home/qwsaz/Завантаження/Seelen-UI-master(2)' 
+  554  suda apt install '/home/qwsaz/Завантаження/Seelen-UI-master(2)' 
+  555  deb sudo apt install'/home/qwsaz/Завантаження/Seelen-UI-master(2)' 
+  556  ascii.live/bnr
+  557  funtouch
+  558  neofetch
+  559  sudo
+  560  sudo apt-get install git
+  561  git --version
+  562  clear
+  563  git config --global user.name "Tetiana"
+  564  git config --global user.email "tan4ikwork@gmail.com"
+  565  git clone https://github.com/Tan4ik-i/HM_10.git
+  566  cd HW_10
+  567  clear
+  568  git config --global user.name "Tan4ik-i"
+  569  gitgit configit configit config
+  570  clear
+  571  git config --global user.name "Tan4ik-i"
+  572  git config --global user.email "tan4ikwork@gmail.com"
+  573  git clone https://github.com/Tan4ik-i/HW_10.git
+  574  cd HW_10
+  575  cd..
+  576  touch text_ignore.txt
+  577  cd..
+  578  nano.git_ignore
+  579  nano.git ignore
+  580  nano
+  581  git status
+  582  git add
+  583  git add .
+  584  git commit -m "Add text_ignore.txt to gitignore"
+  585  git config --global user.name "Tan4ik_i"
+  586  git config --global user.email "tan4ikwork@gmail.com"
+  587  git clone https://github.com/Tan4ik-i/HW_10.git
+  588  add..
+  589  history
+  590  -d277
+  591  -d 277
+  592  git config --global user.name "Tan4ik-i"
+  593  git config --global user.email "tan4ikwork@gmail.com"
+  594  git clone https://github.com/Tan4ik-i/HM_10.git
+  595  clear
+  596  git config --global user.name "Tan4ik-i"
+  597  git config --global user.email "tan4ikwork@gmail.com"
+  598  git clone https://github.com/Tan4ik-i/HM_10.git
+  599  cd HW_10
+  600  touch text_ignore.txt
+  601  nano.git ignore
+  602  nano
+  603  git status
+  604  git add .
+  605  git commit -m "Add text_ignore.txt to .gitignore"
+  606  git rm --cached text_ignore.txt
+  607  cd HW_10
+  608  git rm --cached text_ignore.txt
+  609  1s
+  610  ls
+  611  echo "text_ignore.txt" >> .gitignore
+  612  cat .gitignore
+  613  cd ~/HW_10
+  614  git rm --cached text_ignore.txt
+  615  ls
+  616  cd HM_10
+  617  ls
+  618  git rm --cached text_ignore.txt
+  619  echo "text_ignore.txt" >> .gitignore
+  620  history -a && history -r
+  621  history > command_list.csv
